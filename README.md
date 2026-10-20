@@ -1,6 +1,6 @@
 # TarikArcher.github.io
 ### Data Analyst Portfolio Website 
--[Check Me Out!😀](tarikarcher.github.io)
+-[Check Me Out!😀](https://tarikarcher.github.io/) 
 ### HTML 
 -[index.html](https://github.com/TarikArcher/TarikArcher.github.io/blob/main/index.html) 
 
